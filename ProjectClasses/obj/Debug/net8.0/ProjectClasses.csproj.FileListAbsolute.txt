@@ -1,0 +1,14 @@
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\bin\Debug\net8.0\ProjectClasses.exe
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\bin\Debug\net8.0\ProjectClasses.deps.json
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\bin\Debug\net8.0\ProjectClasses.runtimeconfig.json
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\bin\Debug\net8.0\ProjectClasses.dll
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\bin\Debug\net8.0\ProjectClasses.pdb
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.AssemblyInfoInputs.cache
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.AssemblyInfo.cs
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.csproj.CoreCompileInputs.cache
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.dll
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\refint\ProjectClasses.dll
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.pdb
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ProjectClasses.genruntimeconfig.cache
+C:\Users\dlopez\Documents\Visual Studio 2022\Projects\ProjectClasses\obj\Debug\net8.0\ref\ProjectClasses.dll
